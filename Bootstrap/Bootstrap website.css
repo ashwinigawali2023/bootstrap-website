@@ -1,0 +1,23 @@
+.box3{
+  border: 1px solid #fff;
+  width: 350px;
+  height: 400px;
+  padding-top: 20px;
+  padding-left: 20px;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 0px;
+  margin-top: 20px;
+  border-radius:20px 20px 20px 20px;
+}
+.mainbox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.col-md-4{
+  border: 2px solid #fff;
+  width:100px ;
+  height: 200px;
+  text-align: center;
+}
+
